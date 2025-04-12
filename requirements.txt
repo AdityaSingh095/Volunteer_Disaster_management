@@ -1,0 +1,15 @@
+streamlit
+requests
+torch
+librosa
+soundfile
+PyPDF2
+spacy
+sqlite3
+pandas
+pillow
+folium
+streamlit-folium
+twilio
+google-generativeai
+transformers
